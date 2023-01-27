@@ -1,10 +1,14 @@
 # SurveyorCangMing
 
-👀 I’m interested in ...
+## 🌟 Some dreams
 
-🌱 I’m currently learning ...
+🎮 Become a high-level gamer.
 
-💞️ I’m looking to collaborate on ...
+🎨 Become a painter.
+
+📹 Become a video blogger.
+
+🧳 Travel to Beijing & Heilongjiang
 
 ## 📫 How to reach me ...
 
