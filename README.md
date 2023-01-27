@@ -10,7 +10,13 @@
 
 🧳 Travel to Beijing & Heilongjiang
 
-## 📫 How to reach me ...
+## ⚛️ Projects in progress
+
+soviyi (proversional name)
+
+A fabric minecraft mod
+
+## 📫 How to reach me
 
 Steam: 866394423
 
