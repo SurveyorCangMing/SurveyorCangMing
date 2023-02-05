@@ -12,7 +12,7 @@
 
 ## ⚛️ Projects in progress
 
-soviyi (proversional name)
+aera
 
 A fabric minecraft mod
 
